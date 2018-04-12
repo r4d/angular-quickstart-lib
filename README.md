@@ -58,7 +58,7 @@ Then ...
 Perform the _clone-to-launch_ steps with these terminal commands.
 
 ```
-git clone https://github.com/filipesilva/angular-quickstart-lib.git
+git clone https://github.com/cyrilletuzi/angular-quickstart-lib.git
 cd angular-quickstart-lib
 npm install
 npm start
@@ -66,7 +66,7 @@ npm start
 
 
 ### Download
-[Download the QuickStart Library seed](https://github.com/filipesilva/angular-quickstart-lib/archive/master.zip)
+[Download the QuickStart Library seed](https://codeload.github.com/cyrilletuzi/angular-quickstart-lib/zip/master)
 and unzip it into your project folder. Then perform the remaining steps with these terminal commands.
 
 ```
