@@ -2,7 +2,7 @@
 
 ## Update : Angular 6
 
-This post is no longer relevant. With Angular 6, creating an Angular library is as simple as `ng g library name`. See [official CLI documentation](https://github.com/angular/angular-cli/wiki/stories-create-library).
+This repo is no longer relevant. With Angular 6, creating an Angular library is as simple as `ng g library name`. See [official CLI documentation](https://github.com/angular/angular-cli/wiki/stories-create-library). Only use this repo if you need backward support for Angular 5.
 
 ## Introduction
 
