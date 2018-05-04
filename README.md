@@ -4,6 +4,8 @@
 
 This post is no longer relevant. With Angular 6, creating an Angular library is as simple as `ng g library name`. See [official CLI documentation](https://github.com/angular/angular-cli/wiki/stories-create-library).
 
+## Introduction
+
 This is a simple library quickstart for Angular libraries, implementing the
 [Angular Package Format v4.0](https://docs.google.com/document/d/1CZC2rcpxffTDfRDs6p1cfbmKNLA6x5O-NtkJglDaBVs/edit#heading=h.k0mh3o8u5hx).
 
