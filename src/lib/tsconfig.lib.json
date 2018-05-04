@@ -13,7 +13,7 @@
   ],
   "angularCompilerOptions": {
     "annotateForClosureCompiler": true,
-    "strictMetadataEmit": true,
+    "strictMetadataEmit": false,
     "skipTemplateCodegen": true,
     "flatModuleOutFile": "quickstart-lib.js",
     "flatModuleId": "quickstart-lib",
